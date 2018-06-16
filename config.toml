@@ -8,6 +8,8 @@ theme = "minimo"
 disqusShortname = ""
 googleAnalytics = ""
 
+publishDir = "docs"
+
 Paginate = 5
 preserveTaxonomyNames = false
 
