@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/content/</loc>
+    <loc>https://jumanjii.github.io/PokerCircle/content/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://jumanjii.github.io/PokerCircle/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://jumanjii.github.io/PokerCircle/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://jumanjii.github.io/PokerCircle/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>https://jumanjii.github.io/PokerCircle/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://jumanjii.github.io/PokerCircle/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,4 +1,5 @@
-baseURL = ""
+baseURL = "https://jumanjii.github.io/PokerCircle/"
+canonifyURLs = true
 title = "Poker Circle"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""

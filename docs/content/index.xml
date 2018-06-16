@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Poker Circle</title>
-    <link>/content/</link>
+    <link>https://jumanjii.github.io/PokerCircle/content/</link>
     <description>Recent content in Home on Poker Circle</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/content/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jumanjii.github.io/PokerCircle/content/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
