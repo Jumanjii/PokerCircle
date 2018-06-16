@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jumanjii.github.io/PokerCircle/content/</loc>
+    <loc>https://jumanjii.github.io/PokerCircle/</loc>
   </url>
   
   <url>
@@ -13,11 +13,6 @@
   
   <url>
     <loc>https://jumanjii.github.io/PokerCircle/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jumanjii.github.io/PokerCircle/</loc>
     <priority>0</priority>
   </url>
   

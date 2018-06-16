@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Classement General
 menu:
   - main
   - sidebar
