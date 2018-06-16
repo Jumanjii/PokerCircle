@@ -1,10 +1,14 @@
 ---
-title: Classement General
+title:
 menu:
   - main
   - sidebar
 weight: -270
 ---
+
+{{% center %}}
+**Classement Géneral**
+{{% /center %}}
 
 | Position | Joueur        |     Gain    |
 | :-------:| :------------ | :----------:|
