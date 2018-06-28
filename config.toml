@@ -52,7 +52,7 @@ accentColor = "#ffcd00"
 hideMainMenu = false
 
 [params.sidebar]
-enable = true
+enable = false
 
 [params.widgets]
 homepage = ["recent_posts"]
